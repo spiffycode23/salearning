@@ -5,6 +5,12 @@ System Administration Learning
 
 [lynda.com](https://lynda.com)
 
+- firewalls and selinux
+- learning puppet (Samuelson)
+- puppet essential training elk stuff (Josh Samuelson)
+- comptia security+ cert prep (Mike Chapple)
+- DevOps Foundations: Monitoring and Observability
+
 ### Topics
 
 - puppet
@@ -17,6 +23,6 @@ System Administration Learning
 - aws
 - docker
 - selinux
-- firewalls
+- firewalls/iptables/firewalld
 - security+
 
