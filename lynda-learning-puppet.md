@@ -10,3 +10,6 @@ Setup a basic puppet master that also runs an agent. Install two docker images t
 
 Not overly complex and covers the role/profile stuff
 
+
+### There is a complete overview of the setup in gdocs under puppet
+
